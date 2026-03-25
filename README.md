@@ -19,5 +19,6 @@ We are the first platform to combine a Binance-style, dark-mode trading interfac
 * **Blockchain:** Solidity, Shardeum Sphinx Testnet
 * **UI/UX:** Custom Glassmorphism & High-Density Pro Trading Interface
 
-## 🌐 Deployed Smart Contract (Shardeum Sphinx Testnet)
-**Contract Address:** `[0xd9145CCE52D386f254917e481eB44e9943F39138]`
+## 🌐 Live Demo & Deployment
+* **Deployed Project (Live Website):** https://hack-brown-eight.vercel.app
+* **Smart Contract Address (Shardeum Sphinx):** [0xd9145CCE52D386f254917e481eB44e9943F39138]
